@@ -1,0 +1,3 @@
+enum DataSource {
+  local, remote
+}
